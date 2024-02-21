@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: af926f00400014924b4b2fb9ba7e2cc4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tntSpriteRed: {fileID: 21300000, guid: e8071fe83192f44878e4091952507f61, type: 3}
+  - tntSpriteBlue: {fileID: 21300000, guid: aedfae9cd153c4e539af5e6db45fbbc5, type: 3}
+  - tntSpriteGreen: {fileID: 21300000, guid: f8e3c2c08199b465cb2632c5a934c9fb, type: 3}
+  - tntSpriteYellow: {fileID: 21300000, guid: 665d9414e7a0e4dd2bb6a0ed5ea6c31d, type: 3}
+  - normalSpriteRed: {fileID: 21300000, guid: e52ede4622c1247399541adfd190bf19, type: 3}
+  - normalSpriteBlue: {fileID: 21300000, guid: 8ef5590bc6c054ecc97ff07998fd01ad, type: 3}
+  - normalSpriteGreen: {fileID: 21300000, guid: 736d593645fca4eb1a6eafe77514ea69, type: 3}
+  - normalSpriteYellow: {fileID: 21300000, guid: 4d03ce50945ed45ce9a826b2cdb2af5a, type: 3}
+  - TNT: {fileID: 21300000, guid: d95c7f446fc3b432c905d3df53a847f2, type: 3}
+  - Box: {fileID: 21300000, guid: 119e4d1db86224ad38f88f930421176f, type: 3}
+  - Stone: {fileID: 21300000, guid: 1eababb2d40584f4099f715c1eacedd7, type: 3}
+  - Vase: {fileID: 21300000, guid: 9e8afdd30be8b4bccbe8fbffe17034d1, type: 3}
+  - BrokenVase: {fileID: 21300000, guid: 8df2d775a8fc74de69da5637d5cf5a38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
