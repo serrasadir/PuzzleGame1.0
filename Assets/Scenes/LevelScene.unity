@@ -1157,7 +1157,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.7607843}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.8509804}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1831,7 +1831,6 @@ MonoBehaviour:
   mainMenuButton: {fileID: 1219363570088066310}
   star: {fileID: 1206460458}
   grid: {fileID: 1124335636}
-  maxLevel: 10
 --- !u!114 &822554053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2902,7 +2901,6 @@ MonoBehaviour:
   mainMenuButton: {fileID: 3584340926196891250}
   star: {fileID: 1206460458}
   grid: {fileID: 1124335636}
-  maxLevel: 10
 --- !u!4 &1546820638
 Transform:
   m_ObjectHideFlags: 0

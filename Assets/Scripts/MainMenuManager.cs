@@ -33,7 +33,7 @@ namespace BlastGame
             if (currentLevel <= maxLevel)
             {
                 Debug.Log("Loading game scene");
-                SceneManager.LoadScene("GameScene");
+                SceneManager.LoadScene("LevelScene");
             }
         }
         public void SaveProgress()
